@@ -21,9 +21,9 @@ Hệ thống quản lý tài khoản và doanh thu vòng quay Lucky Spin đượ
 
 2. Dùng một IDE có hỗ trợ C++ (như Visual Studio, CLion) hoặc compile trực tiếp bằng GCC qua terminal:
    ```bash
-   g++ main.cpp -o RobloxSystem
-  ```bash
-  ./RobloxSystem
-```
+      g++ main.cpp -o RobloxSystem
+```bash
+     ./RobloxSystem
+  ```
 👨‍💻 Tác giả
 Phùng Tấn Khánh Đăng
