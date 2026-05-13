@@ -18,3 +18,12 @@ Hệ thống quản lý tài khoản và doanh thu vòng quay Lucky Spin đượ
 1. Clone repository này về máy:
    ```bash
    git clone [https://github.com/your-username/Roblox-Shop-Core-System.git](https://github.com/your-username/Roblox-Shop-Core-System.git)
+
+2. Dùng một IDE có hỗ trợ C++ (như Visual Studio, CLion) hoặc compile trực tiếp bằng GCC qua terminal:
+   ```bash
+   g++ main.cpp -o RobloxSystem
+  ```bash
+  ./RobloxSystem
+```
+👨‍💻 Tác giả
+Phùng Tấn Khánh Đăng
